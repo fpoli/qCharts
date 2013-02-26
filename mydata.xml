@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart type="line">
+    <column name="Labels" color="#189ff2">
+        <item color="red">London</item>
+        <item color="pink">Stockholm</item>
+        <item color="lightgreen">Paris</item>
+        <item color="green">Rome</item>
+        <item color="blue">Lisbon</item>
+        <item color="lightblue">Madrid</item>
+        <item color="magenta">Berlin</item>
+        <item color="purple">Vienna</item>
+    </column>
+    <column name="Quantity 1" color="green">
+        <item>78</item>
+        <item>35</item>
+        <item>45</item>
+        <item>11</item>
+        <item>77</item>
+        <item>53</item>
+        <item>51</item>
+        <item>15</item>
+    </column>
+    <column name="Quantity 2 " color="#6434cc">
+        <item>68</item>
+        <item>45</item>
+        <item>59</item>
+        <item>21</item>
+        <item>17</item>
+        <item>12</item>
+        <item>53</item>
+        <item>35</item>
+    </column>
+    <column name="Quantity 3" color="brown">
+        <item>82</item>
+        <item>38</item>
+        <item>45</item>
+        <item>19</item>
+        <item>50</item>
+        <item>55</item>
+        <item>58</item>
+        <item>68</item>
+    </column>
+</chart>

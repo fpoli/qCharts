@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart type="line">
+    <column name="Labels" color="#1894f2">
+        <item color="#44f218">Scientific Research</item>
+        <item color="#f23d18">Engineering &amp; Design</item>
+        <item color="#18f2ca">Automotive</item>
+        <item color="#caf218">Aerospace</item>
+        <item color="#1840f2">Automation &amp; Machine Tools</item>
+        <item color="#18f240">Medical &amp; Bioinformatics</item>
+        <item color="#f29018">Imaging &amp; Special Effects</item>
+        <item color="#18c7f2">Defense</item>
+        <item color="#77f218">Test &amp; Measurement Systems</item>
+        <item color="#4418f2">Oil &amp; Gas</item>
+        <item color="#18f294">Entertainment &amp; Broadcasting</item>
+        <item color="#f2e818">Financial</item>
+        <item color="#1873f2">Other</item>
+    </column>
+    <column name="Quantity 2" color="#f25d18">
+        <item>21</item>
+        <item>18</item>
+        <item>14</item>
+        <item>13</item>
+        <item>13</item>
+        <item>13</item>
+        <item>11.8</item>
+        <item>11</item>
+        <item>9</item>
+        <item>7</item>
+        <item>6</item>
+        <item>8</item>
+        <item>15</item>
+    </column>
+    <column name="Quantity 1" color="#23f218">
+        <item>3</item>
+        <item>2</item>
+        <item>9</item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>10</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>11</item>
+        <item>5</item>
+    </column>
+    <column name="Quantity 3" color="#18f2e8">
+        <item>20</item>
+        <item>17</item>
+        <item>13</item>
+        <item>12</item>
+        <item>13.5</item>
+        <item>13.89</item>
+        <item>12.1</item>
+        <item>9</item>
+        <item>9</item>
+        <item>7</item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+    </column>
+</chart>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart type="stack">
+    <column name="Labels" color="#f25618">
+        <item color="#99e600">Scientific Research</item>
+        <item color="#99cc00">Engineering &amp; Design</item>
+        <item color="#99b300">Automotive</item>
+        <item color="#9f991a">Aerospace</item>
+        <item color="#a48033">Automation &amp; Machine Tools</item>
+        <item color="#a9664d">Medical &amp; Bioinformatics</item>
+        <item color="#ae4d66">Imaging &amp; Special Effects</item>
+        <item color="#b33380">Defense</item>
+        <item color="#a64086">Test &amp; Measurement Systems</item>
+        <item color="#994d8d">Oil &amp; Gas</item>
+        <item color="#8d5a93">Entertainment &amp; Broadcasting</item>
+        <item color="#806699">Financial</item>
+        <item color="#8073a6">Consumer Electronics</item>
+        <item color="#8080b3">Other</item>
+    </column>
+    <column name="Quantity 1" color="#94f218">
+        <item>25</item>
+        <item>20</item>
+        <item>18</item>
+        <item>15</item>
+        <item>13</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>9</item>
+        <item>9</item>
+        <item>7</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+    </column>
+    <column name="Quantity 2" color="#2718f2">
+        <item>19</item>
+        <item>13</item>
+        <item>12</item>
+        <item>16</item>
+        <item>14</item>
+        <item>17</item>
+        <item>12</item>
+        <item>10</item>
+        <item>9</item>
+        <item>10</item>
+        <item>7</item>
+        <item>10</item>
+        <item>10</item>
+        <item>18</item>
+    </column>
+    <column name="Quantity 3" color="#18f277">
+        <item>20</item>
+        <item>8</item>
+        <item>10</item>
+        <item>18</item>
+        <item>16</item>
+        <item>11</item>
+        <item>10</item>
+        <item>5</item>
+        <item>10</item>
+        <item>9</item>
+        <item>7</item>
+        <item>8</item>
+        <item>18</item>
+        <item>26</item>
+    </column>
+</chart>
