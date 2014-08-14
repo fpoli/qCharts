@@ -1,0 +1,34 @@
+notifications:
+  email: false
+
+language: cpp
+compiler:
+  - gcc
+
+env:
+  global:
+   # The next declaration is the encrypted COVERITY_SCAN_TOKEN, created
+   #   via the "travis encrypt" command using the project repo's public key
+   - secure: "jHFltyN9iuhkrCeMo14xMn+PaRyQLIdePKDPnV05T3TengI10sGK6x0rYSYv7yZEPgpGQV6QcpZ9dlijzXwcHFS9Wf+hgaM3+adUPs5pd7K+dwHn9muhzNAiCU0dfUb/OeZbeLtO/UNnHAUULgQeqk/VRJPFDQQIUICcu0kLafU="
+
+install:
+  - sudo apt-get update
+  - sudo apt-get install -y libqt4-dev qt4-qmake
+
+before_script:
+  - qmake -project
+  - qmake
+
+addons:
+  coverity_scan:
+    project:
+      name: "fpoli/qCharts"
+      description: "Edit and visualize numeric charts, save as XML (academic project)"
+    notification_email: fedux11@gmail.com
+    build_command_prepend: ""
+    build_command: "make"
+    branch_pattern: master
+
+script:
+  - make clean
+  - make
